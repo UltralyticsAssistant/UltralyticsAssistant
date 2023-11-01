@@ -17,7 +17,7 @@
 
 🚀 Meet our newest team member, **@UltralyticsAssistant**! 🎉
 
-Trained rigorously on Ultralytics YOLO docs and code, our AI-powered chatbot is here to help you navigate through your journey with YOLO. It's friendly, responsive, and, most importantly, smart enough to answer all your pressing questions.
+Trained rigorously on Ultralytics [docs](https://docs.ultralytics.com/) and [code](https://github.com/ultralytics/ultralytics), our AI-powered chatbot is here to help you navigate through your journey with YOLO. It's friendly, responsive, and, most importantly, smart enough to answer all your pressing questions.
 
 Have a question about how to use YOLO? Or perhaps you're puzzled about a particular piece of code? Don't hesitate, just ask away! Use the **@UltralyticsAssistant** tag in your comment to summon it and watch as it guides you through your queries.
 
